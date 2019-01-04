@@ -2,3 +2,5 @@ Jazz
 Rock
 Disco
 Classical
+ - Beethoveen's 6th Symphony
+ - Emperor Concerto
